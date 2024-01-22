@@ -8,3 +8,6 @@
 
 [Github] (https://github.com/andrewec0)
 ---
+1. Interested about new upcoming techonlogies
+2. Applying knowledge to innovate a new project
+3. Learning from mistakes to keep moving forward
