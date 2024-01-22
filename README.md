@@ -1,3 +1,5 @@
 # EE-322
-**Design IV**
 *Andrew Ecimovic*
+## Design IV
+**3rd year Electrical Engineer**
+---
