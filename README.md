@@ -6,7 +6,7 @@
 2. Applying knowledge to innovate a new project
 3. Learning from mistakes to keep moving forward
 
-Writing a messgae in python `print("Hello World")`
+**Writing a messgae in python** `print("Hello World")`
 
 [GitHub](https://github.com/andrewec0)
 ---
