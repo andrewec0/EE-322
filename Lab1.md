@@ -1,1 +1,3 @@
-
+# Lab 1
+## Half Adder
+![halfadder](https://github.com/andrewec0/EE-322/assets/117099928/7b4b218a-d938-4761-bd8b-9ade1419ecbd)
