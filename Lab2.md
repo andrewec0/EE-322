@@ -20,7 +20,9 @@
 ![df](https://github.com/andrewec0/EE-322/assets/117099928/641be1e4-70aa-4e24-bfcb-b27370ac4301)
 ### mkdir demo
 ### cd demo
+![cddemo](https://github.com/andrewec0/EE-322/assets/117099928/5379880c-a58f-4f4d-aecc-9380e3683d94)
 ### nano file
+![nanodemo](https://github.com/andrewec0/EE-322/assets/117099928/6b1a9514-b75b-4175-a814-65ea8ed3a645)
 ### cat file
 ### cp file file1
 ### mv file file2
