@@ -23,12 +23,21 @@
 ### nano file
 ![nanodemo](https://github.com/andrewec0/EE-322/assets/117099928/6b1a9514-b75b-4175-a814-65ea8ed3a645)
 ### cat file
+Displays content within a file
 ### cp file file1
+Copies a file from one location to another
 ### mv file file2
+Moves a file from one loaction to another
 ### rm file2
+Deletes a file
 ### clear
+Clears the terminal screen
 ### man uname
 ### uname -a
+Provides thorough system information.
 ### ifconfig
+Shows a number of parameters, including IP addresses.
 ### ping localhost
+Displays your IP address
 ### netstat
+Display the status of your network
