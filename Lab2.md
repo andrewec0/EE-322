@@ -1,6 +1,7 @@
 # Lab 2
 ### hostname
 Displays the hostname of the computer system.
+
 ![hostname](https://github.com/andrewec0/EE-322/assets/117099928/59477149-c2c4-4f96-827a-04f168aca486)
 ### env
 Dsiplays all the list of environment variables.
