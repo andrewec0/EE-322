@@ -1,6 +1,7 @@
 # Lab 3
 ## python3 julian.py
 <img width="905" alt="Screenshot 2024-04-28 at 1 40 23 PM" src="https://github.com/andrewec0/EE-322/assets/117099928/0cef3891-10e8-4a99-a50a-1b5d4da465cc">
+
 ## python3 date_example.py
 ## python3 datetime_example.py
 ## python3 time_example.py
