@@ -26,7 +26,7 @@ For this lab I did majority of the requirements on my Macbook, however some requ
 <img width="725" alt="Screenshot 2024-04-28 at 2 28 40 PM" src="https://github.com/andrewec0/EE-322/assets/117099928/aa27f928-d3f3-4453-a344-f1e18a5891be">
 
 ## python3 address.py "40.74480675, -74.02532861159351"
-<img width="725" alt="Screenshot 2024-04-28 at 2 28 40 PM" src="https://github.com/andrewec0/EE-322/assets/117099928/aa27f928-d3f3-4453-a344-f1e18a5891be">
+<img width="637" alt="Screenshot 2024-04-28 at 2 33 53 PM" src="https://github.com/andrewec0/EE-322/assets/117099928/db9c002c-43a5-4f0a-8d8b-ed1d845855e0">
 
 ## python3 cpu.py
 <img width="439" alt="Screenshot 2024-04-28 at 2 19 09 PM" src="https://github.com/andrewec0/EE-322/assets/117099928/17cc5a0d-af97-4030-8a39-586383dfb8ff">
