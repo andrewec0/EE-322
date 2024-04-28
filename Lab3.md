@@ -1,5 +1,5 @@
 # Lab 3
-## 'python3 julian.py'
+## python3 julian.py
 ## python3 date_example.py
 ## python3 datetime_example.py
 ## python3 time_example.py
