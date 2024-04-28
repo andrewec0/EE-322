@@ -23,7 +23,7 @@ For this lab I did majority of the requirements on my Macbook, however some requ
 <img width="457" alt="Screenshot 2024-04-28 at 1 48 22 PM" src="https://github.com/andrewec0/EE-322/assets/117099928/bca680d1-9eff-4ba5-9008-58475496962d">
 
 ## python3 coordinates.py "Samuel C. Williams Library"
-<img width="725" alt="Screenshot 2024-04-28 at 2 28 40 PM" src="https://github.com/andrewec0/EE-322/assets/117099928/aa27f928-d3f3-4453-a344-f1e18a5891be">
+<img width="624" alt="Screenshot 2024-04-28 at 2 35 48 PM" src="https://github.com/andrewec0/EE-322/assets/117099928/83805c1f-3e33-4a62-9335-23ffb75f7936">
 
 ## python3 address.py "40.74480675, -74.02532861159351"
 <img width="637" alt="Screenshot 2024-04-28 at 2 33 53 PM" src="https://github.com/andrewec0/EE-322/assets/117099928/db9c002c-43a5-4f0a-8d8b-ed1d845855e0">
